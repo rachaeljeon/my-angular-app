@@ -2,11 +2,15 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.1.3.
 
-### NOTES
+### Pre-Requisite
+`npm install --save @angular/material @angular/cdk`
+
+### To Run
 
 Localhost: http://localhost:4200/
 (Run: `ng serve --open`)
 
+### NOtes
 Helpful imports: https://winsmarts.com/angular-material-has-no-exported-member-materialmodule-fce9ba6000e1
 
 Generate a new component: `ng generate component insert-component-name`
